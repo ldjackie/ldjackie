@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="547649b7-f13c-42c2-bc85-7f22576f6d29" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter2/2-1计算银行存款利息.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter2/2-1计算银行存款利息.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter2/2-2商家收银抹零.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter2/2-2商家收银抹零.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter2/2-3摄氏温度与华氏温度的转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter2/2-3摄氏温度与华氏温度的转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter3/3-1求最大值.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter3/3-1求最大值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter3/3-2判断是否为闰年.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter3/3-2判断是否为闰年.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter3/3-3过滤敏感词.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter3/3-3过滤敏感词.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chapter3/3-4三天打鱼两天晒网.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/chapter3/3-4三天打鱼两天晒网.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chapter1/distance.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chapter1/distance.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/chapter1/enforce.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/chapter1/enforce.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Vb42eMzBQec084dLm5JYYCqHbe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\repository\ldjackie\code" />
+      <recent name="D:\repository\ldjackie\chapter3" />
+      <recent name="D:\repository\ldjackie\chapter2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="547649b7-f13c-42c2-bc85-7f22576f6d29" name="更改" comment="" />
+      <created>1695091239957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695091239957</updated>
+      <workItem from="1695091241350" duration="5227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
