@@ -65,6 +65,7 @@
       <workItem from="1697433917169" duration="1222000" />
       <workItem from="1697985339328" duration="70000" />
       <workItem from="1698029936633" duration="2271000" />
+      <workItem from="1699171195068" duration="6836000" />
     </task>
     <task id="LOCAL-00001" summary="第4章任务代码">
       <option name="closed" value="true" />
@@ -99,6 +100,8 @@
     <SUITE FILE_PATH="coverage/distance_md$5_1.coverage" NAME="5-1判断三边能否构成三角形，并计算面积 覆盖结果" MODIFIED="1698030065290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter5" />
     <SUITE FILE_PATH="coverage/ldjackie$4_2while_.coverage" NAME="4-2输出九九乘法表（while循环实现) 覆盖结果" MODIFIED="1695384079637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter4" />
     <SUITE FILE_PATH="coverage/ldjackie$4_3.coverage" NAME="4-3猜数字游戏 覆盖结果" MODIFIED="1695384520919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter4" />
+    <SUITE FILE_PATH="coverage/distance_md$7_2.coverage" NAME="7-2统计《二十大报告》关键词和词频 覆盖结果" MODIFIED="1699204545425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter7" />
     <SUITE FILE_PATH="coverage/distance_md$5_3.coverage" NAME="5-3输出斐波那契数列 覆盖结果" MODIFIED="1698032445501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter5" />
+    <SUITE FILE_PATH="coverage/distance_md$7_1.coverage" NAME="7-1统计《三国演义》人物出场频次 覆盖结果" MODIFIED="1699203476435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/chapter7" />
   </component>
 </project>
