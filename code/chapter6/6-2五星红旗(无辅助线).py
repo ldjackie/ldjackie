@@ -1,0 +1,70 @@
+#完成绘制五星红旗
+import turtle as t
+import math
+t.setup(960,640,10,10)
+t.bgcolor("red")
+t.speed(5)
+# 画大五角星
+t.penup()
+t.pencolor("yellow")
+t.fillcolor("yellow")
+t.goto(-32*10,32*5)
+t.pendown()
+t.seth(90)
+t.forward(96)
+t.right(162)
+t.begin_fill()
+for i in range(5):
+    t.forward(-math.cos(54)*96*2)
+    t.right(144)
+t.end_fill()
+t.penup()
+#画小五角星1
+t.goto(-32*5,32*8)
+t.pendown()
+t.seth(-90-math.atan(5/3)*180/3.14)
+t.forward(32)
+t.right(162)
+t.begin_fill()
+for i in range(5):
+    t.forward(-math.cos(54)*32*2)
+    t.right(144)
+t.end_fill()
+t.penup()
+#画小五角星2
+t.goto(-32*3,32*6)
+t.pendown()
+t.seth(-90-math.atan(7/1)*180/3.14)
+t.forward(32)
+t.right(162)
+t.begin_fill()
+for i in range(5):
+    t.forward(-math.cos(54)*32*2)
+    t.right(144)
+t.end_fill()
+#画小五角星3
+t.penup()
+t.goto(-32*3,32*3)
+t.pendown()
+t.seth(90+math.atan(7/2)*180/3.14)
+t.forward(32)
+t.right(162)
+t.begin_fill()
+for i in range(5):
+    t.forward(-math.cos(54)*32*2)
+    t.right(144)
+t.end_fill()
+#画小五角星4
+t.penup()
+t.goto(-32*5,32*1)
+t.pendown()
+t.seth(90+math.atan(5/4)*180/3.14)
+t.forward(32)
+t.right(162)
+t.begin_fill()
+for i in range(5):
+    t.forward(-math.cos(54)*32*2)
+    t.right(144)
+t.hideturtle()
+t.end_fill()
+t.done()

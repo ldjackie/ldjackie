@@ -95,24 +95,26 @@
 
 ​	在Python 2.x中，输出数据使用print语句，Python 3.x中，使用print()函数。
 
-​	`import java.io.IOException;`
-​	`#Python 2.x`
-​	`a = 1`
-​	`b = 2`
-​	`print a,b`
+    ```python
+    import java.io.IOException;
+    #Python 2.x
+    a = 1
+    b = 2
+    print a,b
+    ```
 
-
-
-​	`#Python 3.x`
-​	`a=1`
-​	`b=2`
-​	`print(a,b)`
+    ```python
+    #Python 3.x  
+    a=1
+    b=2
+    print(a,b)
+    ```
 
 ​	**2. Python 3.x默认使用UTF-8编码**
 
 ​	Python2.x：不能直接写中文，必须先声明UTF-8编码格式。例如：
 
-​	`#-*- coding:utf-8 -*-`。
+    `#-*- coding:utf-8 -*-`。  
 
 ​	Python3.x：使用UTF-8编码，可以直接写中文。
 
@@ -120,21 +122,18 @@
 
 ​	在 2.x中，使用运算符“/”进行除法运算时，与Java、C语言的除法运算相似，即整数相除结果为整数，浮点数相除结果为浮点数；在3.x中，使用运算符“/”进行除法运算时，整数之间相除也是浮点数，使用运算符“//”进行的除法运算实现整除相除结果为整数。
 
-​	`import java.io.IOException;`
+    ```python
+    import java.io.IOException;
+    #Python 2.x
+    print  12 / 5        # 结果为2
+    print  12.0 / 5.0  # 结果为2.4
+    ```
 
-​	`#Python 2.x`
-
-​	`print  12 / 5        # 结果为2`
-
-​	`print  12.0 / 5.0  # 结果为2.4`
-
-
-
-​	`#Python 3.x`	
-
-​	`print(12 / 5)      # 结果为2.4`
-
-​	`print(12 // 5)     # 结果为2`
+    ```python
+    #Python 3.x
+    print(12 / 5)      # 结果为2.4
+    print(12 // 5)     # 结果为2
+    ```
 
 ​	**4. 比较运算符**
 
@@ -158,31 +157,24 @@
 
 ​	1）在 2.x中，捕获异常的语法是“except Exception,var”，在 3.x中基类通过关键字“as”连接异常类型，捕获异常的语法变为“except Exception as var”。
 
-​	`import java.io.IOException;`
+    ```python
+    import java.io.IOException;
+    #Python 2.x
+    try:
+        1/0
+    except Exception , err: # 异常基类后面加一个逗号，然后跟着异常类型`
+        print err
+    ```
 
-​	`#Python 2.x`	
-
-​	`try:`
-
-​		`1/0`
-
-​	`except Exception , err: # 异常基类后面加一个逗号，然后跟着异常类型`
-
-​		`print err`
-
-
-
-​	`#Python 3.x`
-
-​	`try:`
-
-​		`1/0`
-
-​	`except Exception as err:    # 基类通过关键字"as" 连接异常类型`
-
-​		`print(err)`
-
-​	`#运行结果：division by zero`
+    ```python
+    #Python 3.x
+    try:
+        1/0
+    except Exception as err:    # 基类通过关键字"as" 连接异常类型`
+        print(err)
+    
+    #运行结果：division by zero
+    ```
 
 ​	2） 3.x中取消了异常类的序列行为和.message属性。
 
